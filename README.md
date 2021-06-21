@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&theme=dracula)](https://github.com/CarolinaInglethe/github-readme-stats)
 
-![Snake animation](https://github.com/CarolinaInglethe)
+<dib>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div>
