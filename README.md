@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&theme=dracula)](https://github.com/CarolinaInglethe/github-readme-stats)
 
 <dib>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarolinaInglethe/CarolinaInglethe/blob/output/github-contribution-grid-snake.svg)
 <div>
