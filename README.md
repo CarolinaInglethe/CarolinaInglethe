@@ -1,5 +1,4 @@
 ### Hi!! I'm Carolina Inglethe 👋
-<hr><hr>
 <!--
 **CarolinaInglethe/CarolinaInglethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
