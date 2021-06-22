@@ -1,4 +1,4 @@
-### Hi ! I'm Carolina Inglethe 👋
+### Hi 👋! I'm Carolina Inglethe 
  
  ##
  
