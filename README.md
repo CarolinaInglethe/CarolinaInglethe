@@ -1,5 +1,7 @@
 ### Hi ! I'm Carolina Inglethe 👋
  
+ ##
+ 
 - 😄 Pronome : Carol 
 - 👨🏽‍💻 No momento estou Estudando Desenvolvimento Web Full Stack e colocando em Prática;
 - ♟️  Meus hobbies : leitura , jogos ,séries , musica ,aprender coisas novas;
@@ -7,20 +9,7 @@
 - ✉️ Por favor, envie um email para **carolinainglethe@gmail.com** para me encontrar.
 - 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>** 
  
- 
-<!--
-**CarolinaInglethe/CarolinaInglethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 📚 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
 
 <div>
   <a href="https://github.com/rafaballerini">
