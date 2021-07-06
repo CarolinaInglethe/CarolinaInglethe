@@ -18,8 +18,8 @@
 
 <div>
   <a href="https://github.com/CarolinaInglethe">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
  ![Snake animation](https://github.com/CarolinaInglethe/rafaballerini/blob/output/github-contribution-grid-snake.svg)
