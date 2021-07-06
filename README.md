@@ -1,6 +1,5 @@
 ### Hi 👋! I'm Carolina Inglethe 
  
- ##
  
 - 👨🏽‍💻 No momento estou Estudando Desenvolvimento Web Full Stack na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** e colocando em Prática;
 - ♟️  Meus hobbies : leitura , jogos ,séries , musica ,aprender coisas novas;
