@@ -19,8 +19,6 @@ I am passionate about solving problems and learning. Always open to new challeng
  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/carol_inglethe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  &nbsp;&nbsp;
-  <a href = "mailto:carolinainglethe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carolinglethe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
