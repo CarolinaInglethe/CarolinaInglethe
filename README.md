@@ -4,7 +4,7 @@ My name is Carolina Inglethe and I'm Brazilian  👩🇧🇷
 
 I'm a Computer Engineer and a full stack web development student at **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
 
-I am passionate about solving problems and learning. Always open to new challenges and ready to face changes .I look for more knowledge every day to evolve in my developer career;
+I am passionate about solving problems and learning. Always open to new challenges and ready to face changes ;
 
 ###  🧠 “Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” - Leonardo da Vinci
 
