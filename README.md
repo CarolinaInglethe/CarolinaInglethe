@@ -10,7 +10,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 
 ♟️  Meus hobbies: Leitura, jogos, musica e aprender novas coisas;
 
-✉️ Por favor envie um email para **carolinainglethe@gmail.com** me encontrar.
+✉️ Por favor envie um email para **carolinainglethe@gmail.com** para me encontrar.
 
 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>** 
 
