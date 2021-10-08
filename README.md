@@ -2,7 +2,7 @@
  
 Meu nome é Carolina Inglethe  👩🇧🇷 
 
-Sou estudante de desenvolvimento web full stack na Trybe; **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
+Sou estudante de desenvolvimento web full stack na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
 
 Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronta para enfrentar mudanças; ;
 
