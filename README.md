@@ -1,18 +1,18 @@
 ## Hey 👋  
  
-My name is Carolina Inglethe and I'm Brazilian  👩🇧🇷 
+Meu nome é Carolina Inglethe  👩🇧🇷 
 
-I'm a Computer Engineer and a full stack web development student at **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
+Sou estudante de desenvolvimento web full stack na Trybe; **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
 
-I am passionate about solving problems and learning. Always open to new challenges and ready to face changes ;
+Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronta para enfrentar mudanças; ;
 
 ###  🧠 “Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” - Leonardo da Vinci
 
-♟️  My hobbies: reading, games, music and learning new things;
+♟️  Meus hobbies: Leitura, jogos, musica e aprender novas coisas;
 
-✉️ Please send an email to **carolinainglethe@gmail.com** to find me.
+✉️ Por favor envie um email para **carolinainglethe@gmail.com** me encontrar.
 
-🧝‍♀️ See my Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>** 
+🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>** 
 
  
 <div> 
