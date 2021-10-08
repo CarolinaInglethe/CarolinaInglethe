@@ -17,7 +17,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
  
 <div> 
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/carol_inglethe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/inglethe_ca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carolinglethe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
