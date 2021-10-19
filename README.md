@@ -12,7 +12,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 
 ✉️ Por favor envie um email para **carolinainglethe@gmail.com** para me encontrar.
 
-🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>** 
+<!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
 
  
 <div> 
