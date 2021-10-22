@@ -8,8 +8,6 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 
 ###  🧠 “Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” - Leonardo da Vinci
 
-♟️  Meus hobbies: Leitura, jogos, musica e aprender novas coisas;
-
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
 
  
