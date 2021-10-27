@@ -1,4 +1,4 @@
-## Hey 👋  
+## About me
  
 Meu nome é Carolina Inglethe  👩🇧🇷 
 
