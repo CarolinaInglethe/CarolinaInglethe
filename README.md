@@ -4,8 +4,6 @@ Meu nome é Carolina Inglethe  👩🇧🇷
 
 Sou estudante de desenvolvimento web full stack na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
 
-Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronta para enfrentar mudanças; ;
-
 ###  🧠 “Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” - Leonardo da Vinci
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
