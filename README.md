@@ -26,8 +26,6 @@ Sou estudante de desenvolvimento web full stack na **<a href="https://www.betryb
    &nbsp;
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
-
-## Hard Skills
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
