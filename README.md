@@ -36,6 +36,8 @@ Sou estudante de desenvolvimento web full stack na **<a href="https://www.betryb
   <img align="center" alt="Carol-express" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Carol-Mysql" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Carol-MongoDB" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+   <img align="center" alt="Carol-Node" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
   <!--   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
    <!--   <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--  <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
