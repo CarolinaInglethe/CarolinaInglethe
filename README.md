@@ -32,7 +32,7 @@ Sou estudante de desenvolvimento web full stack na **<a href="https://www.betryb
   <img align="center" alt="Carol-React" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carol-HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-Nodejs" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Carol-Nodejs" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carol-express" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Carol-Mysql" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Carol-MongoDB" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
