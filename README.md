@@ -2,7 +2,7 @@
  
 Meu nome é Carolina Inglethe  👩🇧🇷 
 
-- Sou estudante de desenvolvimento web full stack da **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
+- Sou desenvolvedora web full stack , tryber **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
 - Trabalhando atualmente como desenvolvedora web na **<a href="https://pill.com.br/" target="_blank">Pill fármacia Digital</a>**
 
 ###  🧠 “Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” - Leonardo da Vinci
