@@ -40,6 +40,6 @@ Meu nome é Carolina Inglethe  👩🇧🇷
    <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carol-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Carol-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Carol-Docker" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
+  <img align="center" alt="Carol-Docker" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
 <!--   <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
