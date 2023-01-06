@@ -1,11 +1,7 @@
-## About me
- 
-Meu nome é Carolina Inglethe  👩🇧🇷 
+### Olá Meu nome é Carolina Inglethe , Sou Desenvolvedora de Software 👩🇧🇷 
 
 - Sou desenvolvedora web full stack 
 -  tryber **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
-
-###  🧠 “Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” - Leonardo da Vinci
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
 
