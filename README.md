@@ -1,6 +1,6 @@
 ### Olá Meu nome é Carolina Inglethe , Sou Desenvolvedora de Software 👩🇧🇷 
 
-- Sou desenvolvedora web full stack 
+- Desenvolvedora web full stack 
 -  tryber **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** ;
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
