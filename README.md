@@ -16,13 +16,14 @@
 </div>
 
 ##
-
+<!--
 <div>
   <a href="https://github.com/CarolinaInglethe">
   <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
    &nbsp;
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
+-->
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
