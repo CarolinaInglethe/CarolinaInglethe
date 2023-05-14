@@ -5,7 +5,6 @@
 - **<a href="https://drive.google.com/file/d/1P97GQ3WtWgXvkPNcge0mfyaHF8cMpwaY/view?usp=sharing" target="_blank"> Certificado </a>** ;
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
-
  
 <div> 
  &nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,10 +14,12 @@
    <a href = "mailto:carolinainglethe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ##
+
 <!--
 <div>
   <a href="https://github.com/CarolinaInglethe">
