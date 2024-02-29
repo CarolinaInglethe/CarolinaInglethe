@@ -1,6 +1,6 @@
 ### Olá Meu nome é Carolina Inglethe , Sou Desenvolvedora de Software 👩🇧🇷 
  
--  Desenvolvimento Web Full-Stack, Formada e Certificada pela **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** :
+-  Desenvolvimento Web Full-Stack, Formada na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** :
 - **<a href="https://drive.google.com/file/d/1P97GQ3WtWgXvkPNcge0mfyaHF8cMpwaY/view?usp=sharing" target="_blank"> Certificado </a>** ;
 - Cursando Analise e Desenvolvimento de Sistemas 👩🏻‍🎓
 
