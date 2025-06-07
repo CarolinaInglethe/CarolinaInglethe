@@ -43,5 +43,5 @@
   <img align="center" alt="Carol-Docker" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"> 
 <!--   <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?carolinainglethe=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CarolinaInglethe=anuraghazra&layout=compact)
 </div>
