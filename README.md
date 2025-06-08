@@ -2,7 +2,7 @@
  
 -  Desenvolvimento Web Full-Stack, Formada na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** :
 - **<a href="https://drive.google.com/file/d/1P97GQ3WtWgXvkPNcge0mfyaHF8cMpwaY/view?usp=sharing" target="_blank"> Certificado </a>** ;
-- Cursando Analise e Desenvolvimento de Sistemas 👩🏻‍🎓
+-  Analise e Desenvolvimento de Sistemas 4/5 👩🏻‍🎓
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
  
@@ -17,9 +17,9 @@
 ##
 
 
-<!--<a href="https://github.com/CarolinaInglethe">
+<a href="https://github.com/CarolinaInglethe">
   <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-   &nbsp; -->
+   &nbsp; 
 
  
  <div style="display: inline_block"><br>
