@@ -41,9 +41,8 @@
 <div>
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
-<div>
-  <a href="https://github.com/CarolinaInglethe">
-  <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-</div>
+  <!-- <a href="https://github.com/CarolinaInglethe">
+  <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> -->
+
   
 </div>
