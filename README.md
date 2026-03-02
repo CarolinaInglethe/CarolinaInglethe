@@ -1,8 +1,8 @@
-### Olá Meu nome é Carolina Inglethe , Sou Desenvolvedora de Software 👩🇧🇷 
+### Olá Meu nome é Carolina Inglethe , Sou Desenvolvedora Web e Mobile 👩🇧🇷 
  
--  Desenvolvimento Web e Mobile.
+-  Experiência profissional como Desenvolvedora Web Full-stack.
 - Formada em Análise e Desenvolvimento de Sistemas 👩🏻‍🎓 ;
-- Formada em Desenvolvimento Web Full-stack na Trybe.
+- Formada em Desenvolvimento Web Full-stack na Trybe ;
   
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
