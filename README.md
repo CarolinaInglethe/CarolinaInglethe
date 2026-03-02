@@ -1,8 +1,9 @@
 ### Olá Meu nome é Carolina Inglethe , Sou Desenvolvedora de Software 👩🇧🇷 
  
--  Desenvolvimento Web e Mobile , Formada na **<a href="https://www.betrybe.com/" target="_blank">Trybe</a>** :
-- **<a href="https://drive.google.com/file/d/1P97GQ3WtWgXvkPNcge0mfyaHF8cMpwaY/view?usp=sharing" target="_blank"> Certificado </a>** ;
--  Análise e Desenvolvimento de Sistemas 👩🏻‍🎓
+-  Desenvolvimento Web e Mobile.
+- Formada em Análise e Desenvolvimento de Sistemas 👩🏻‍🎓 ;
+- Formada em Desenvolvimento Web Full-stack na Trybe.
+  
 
 <!-- 🧝‍♀️ Veja meu Portfolio : **<a href="https://carolinainglethe.github.io/" target="_blank"> Portfolio Carol</a>**  -->
  
@@ -38,9 +39,9 @@
 
 
 ##
-<div>
+<!-- <div>
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaInglethe&layout=compact&langs_count=16&theme=material-palenight"/>
-</div>
+</div> -->
   <!-- <a href="https://github.com/CarolinaInglethe">
   <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=CarolinaInglethe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> -->
 
